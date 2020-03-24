@@ -7,6 +7,8 @@
 
 
 let lines: [String] = [  // Create an array for the characters
+    
+    
     "  J J J J J ",
     "      J    ",
     "      J    ",
@@ -43,6 +45,7 @@ let lines: [String] = [  // Create an array for the characters
     "R        R ",
     "R        R "
 ]
+
 
 for line in lines { // For-In Loop to iterate my string of characters
     print(line)// Print the sequence named 'Lines'
