@@ -7,7 +7,7 @@
 
 
 let lines: [String] = [  // Create an array for the characters
-    "  J J J J J",
+    "  J J J J J ",
     "      J    ",
     "      J    ",
     "      J    ",
@@ -25,7 +25,7 @@ let lines: [String] = [  // Create an array for the characters
     "R        R ",
     "R        R ",
 
-    "  J J J J J",
+    "  J J J J J ",
     "      J    ",
     "      J    ",
     "      J    ",
