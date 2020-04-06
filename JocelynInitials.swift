@@ -1,5 +1,4 @@
-// I love Tacos and Cesear Salads! 
-
+// Playing with Code :P
 
 print("  J J J J J")   
 print("      J    ")  
